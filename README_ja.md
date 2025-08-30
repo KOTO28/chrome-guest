@@ -11,7 +11,7 @@ ChromeのゲストモードでファイルやURLを開くためのバッチフ�
 
 このツールは、指定されたファイルやURLをChromeのゲストモードで開くためのシンプルなバッチファイルです。
 
-## 使用方法
+## 使い方
 
 ### 基本的な使い方
 
@@ -45,7 +45,7 @@ chrome-guest.bat "C:\Users\username\pages\index.html"
 
 ## インストール
 
-1. このリポジトリをクローンまたはダウンロードします
+1. [最新のリリース](https://github.com/KOTO28/chrome-guest/releases/latest)の`Assets`にある`chrome-guest.bat`をクリックしてダウンロードします
 2. `chrome-guest.bat`ファイルを任意の場所に配置します
 3. 必要に応じてWindowsのPATH環境変数に追加します
 

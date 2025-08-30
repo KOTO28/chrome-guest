@@ -45,7 +45,7 @@ chrome-guest.bat "C:\Users\username\pages\index.html"
 
 ## Installation
 
-1. Clone or download this repository
+1. Go to the [latest release](https://github.com/KOTO28/chrome-guest/releases/latest) and click on `chrome-guest.bat` in the `Assets` section to download it
 2. Place the `chrome-guest.bat` file in any location
 3. Optionally add it to your Windows PATH environment variable
 
