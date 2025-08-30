@@ -1,5 +1,8 @@
 # chrome-guest
 
+[![GitHub Release](https://img.shields.io/github/v/release/koto28/chrome-guest)](https://github.com/KOTO28/chrome-guest/releases/latest)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/koto28/chrome-guest/total)
+
 [English](README.md) | 日本語
 
 ChromeのゲストモードでファイルやURLを開くためのバッチファイルです。

@@ -1,5 +1,8 @@
 # chrome-guest
 
+[![GitHub Release](https://img.shields.io/github/v/release/koto28/chrome-guest)](https://github.com/KOTO28/chrome-guest/releases/latest)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/koto28/chrome-guest/total)
+
 English | [日本語](README_ja.md)
 
 A batch file to open files or URLs in Chrome's guest mode.
