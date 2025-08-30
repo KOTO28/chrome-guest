@@ -9,4 +9,5 @@ if not exist %CHROME_PATH% (
     exit /b 1
 )
 
-%CHROME_PATH% --guest %~1
+echo "Launching Chrome in guest mode with: %~1"
+%CHROME_PATH% --guest "%~1"
